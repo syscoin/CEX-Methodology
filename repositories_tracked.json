@@ -1,0 +1,122 @@
+[
+    {
+        "currency": "BTC",
+        "repos": [
+            "https://github.com/bitcoin/bitcoin"
+        ]
+    },
+    {
+        "currency": "ETH",
+        "repos": [
+            "https://github.com/ethereum/go-ethereum"
+        ]
+    },
+    {
+        "currency": "XRP",
+        "repos": [
+            "https://github.com/ripple/rippled"
+        ]
+    },
+    {
+        "currency": "BCH",
+        "repos": [
+            "https://github.com/Bitcoin-ABC/bitcoin-abc"
+        ]
+    },
+    {
+        "currency": "ADA",
+        "repos": [
+            "https://github.com/input-output-hk/cardano-sl"
+        ]
+    },
+    {
+        "currency": "XLM",
+        "repos": [
+            "https://github.com/stellar/stellar-core"
+        ]
+    },
+    {
+        "currency": "NEO",
+        "repos": [
+            "https://github.com/neo-project/neo"
+        ]
+    },
+    {
+        "currency": "LTC",
+        "repos": [
+            "https://github.com/litecoin-project/litecoin"
+        ]
+    },
+    {
+        "currency": "EOS",
+        "repos": [
+            "https://github.com/EOSIO/eos"
+        ]
+    },
+    {
+        "currency": "XEM",
+        "repos": [
+            "https://github.com/NemProject/nem.core"
+        ]
+    },
+    {
+        "currency": "IOTA",
+        "repos": [
+            "https://github.com/iotaledger/wallet"
+        ]
+    },
+    {
+        "currency": "DASH",
+        "repos": [
+            "https://github.com/dashpay/dash"
+        ]
+    },
+    {
+        "currency": "XMR",
+        "repos": [
+            "https://github.com/monero-project/monero"
+        ]
+    },
+    {
+        "currency": "TRX",
+        "repos": [
+            "https://github.com/tronprotocol/java-tron"
+        ]
+    },
+    {
+        "currency": "ETC",
+        "repos": [
+            "https://github.com/ethereumproject/go-ethereum"
+        ]
+    },
+    {
+        "currency": "QTUM",
+        "repos": [
+            "https://github.com/qtumproject/qtum"
+        ]
+    },
+    {
+        "currency": "BTG",
+        "repos": [
+            "https://github.com/BTCGPU/BTCGPU"
+        ]
+    },
+    {
+        "currency": "LSK",
+        "repos": [
+            "https://github.com/LiskHQ/lisk"
+        ]
+    },
+    {
+        "currency": "USDT",
+        "repos": [
+            "https://github.com/bitcoin/bitcoin"
+        ]
+    },
+    {
+        "currency": "ZEC",
+        "repos": [
+            "https://github.com/zcash/zcash"
+        ]
+    }
+]
