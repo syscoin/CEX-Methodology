@@ -118,5 +118,11 @@
         "repos": [
             "https://github.com/zcash/zcash"
         ]
+    },
+    {
+        "currency": "SYS",
+        "repos": [
+            "https://github.com/syscoin/syscoin"
+        ]
     }
 ]
